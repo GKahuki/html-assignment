@@ -1,0 +1,17 @@
+table, th, td {
+    border: 2px solid black;
+    .box {
+      box-shadow: 5px 5px 10px rgb(250, 4, 4); 
+  }
+  }
+ 
+  
+  /*.box {
+    /*border: 3px solid black;  /* Solid black border */
+   /* box-shadow: 4px 4px 10px rgba(250, 3, 3);  /* Elevation shadow */
+   /* padding: 50px;
+    width: 200px;
+    text-align: center;
+    margin: 50px auto;
+    border-radius: 10px; /* Rounded corners */
+/*}
